@@ -1,0 +1,6 @@
+{
+    "ext": "mjs,json",
+    "watch": ["src"],
+    "exec": "node --experimental-modules src/app.mjs"
+  }
+  
